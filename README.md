@@ -1,19 +1,15 @@
-# GTranslate-strings-xml DTranslate-strings-xml
+# Google Translate for strings.xml (Android Studio , etc.)
 
-Provides python3.5 scripts that automate string resource file translations as needed for Android projects.
-As of July 2018, two translation services are implemented, namely DEEPL and GOOLGE TRANSLATE.
+Provides python3.5 scripts to translate strings.xml file for any other language automaticly. This Project is forked from https://github.com/Ra-Na/GTranslate-strings-xml you can check the original project there.
 
-The Google translate script works here:
+# How to Install?
 
-https://asrt.gluege.boerde.de/
+1) Make sure you installed Python on your machine. If you dont get it from <a href="https://www.python.org/downloads/">here</a> 
+2) Edit gtranslate.py as your wishes.
+INPUTLANGUAGE='en' 
+OUTPUTLANGUAGE='th'
+INFILE='teststrings.xml'
+OUTFILE='teststrings_th.xml'
+3) Run "python gtranslate.py"
+4) Output file will be created automaticly.
 
-Note:
-
-1.) For English
-        German
-        Italian
-        French
-        Spanish
-        Dutch
-        Polish Deepl yields better translations. 
-        
