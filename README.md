@@ -12,8 +12,6 @@ Provides python3.5 scripts to translate strings.xml file for any other language 
 # Using
 The Google translate script using this in background:
 
-https://asrt.gluege.boerde.de/
-
 ```python
 ### LANGUAGE CODES FOR REFERENCE
 
