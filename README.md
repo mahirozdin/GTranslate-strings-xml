@@ -2,12 +2,12 @@
 
 Provides python3.5 scripts to translate strings.xml file for any other language automaticly. This Project is forked from https://github.com/Ra-Na/GTranslate-strings-xml you can check the original project there.
 
-# How to Install?
+# How to Use?
+1- Put strings.xml file into the same folder with py script.
+2- run "py gtranslate.py" 
+3- Write the source language code. (Example : en)
+4- Write multi language or single language code by seperating comma (Example : tr,fr,ar,iw)
 
-1) Make sure you installed Python on your machine. If you dont get it from <a href="https://www.python.org/downloads/">here</a> 
-2) Run "python gtranslate.py"
-3) Fill the questions with your data.
-3) Output file will be created automaticly.
 
 # Using
 The Google translate script using this in background:
