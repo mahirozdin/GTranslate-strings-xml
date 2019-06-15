@@ -4,8 +4,11 @@ Provides python3.5 scripts to translate strings.xml file for any other language 
 
 # How to Use?
 1- Put strings.xml file into the same folder with py script.
+
 2- run "py gtranslate.py" 
+
 3- Write the source language code. (Example : en)
+
 4- Write multi language or single language code by seperating comma (Example : tr,fr,ar,iw)
 
 
